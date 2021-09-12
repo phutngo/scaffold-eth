@@ -4,8 +4,6 @@
   "keywords": [
     "ethereum",
     "react",
-    "uniswap",
-    "workspaces",
     "yarn"
   ],
   "private": true,
@@ -62,5 +60,6 @@
       "**/hardhat",
       "**/hardhat/**"
     ]
-  }
+  },
+  "dependencies": {}
 }
